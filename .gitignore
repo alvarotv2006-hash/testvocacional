@@ -40,3 +40,6 @@ __screenshots__/
 
 # vite-ssg temp
 .vite-ssg-temp/
+
+# Claude Code local config
+.claude/
